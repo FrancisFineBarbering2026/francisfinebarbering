@@ -154,7 +154,7 @@ footer {
         grid-template-columns: 1fr;
     }
 }
-.contact a {
+.contact-info a {
     color: #c9a24d;
     text-decoration: none;
     font-weight: bold;
