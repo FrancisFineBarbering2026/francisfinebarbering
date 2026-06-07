@@ -75,9 +75,10 @@ nav a:hover {
     display: inline-block;
     padding: 14px 28px;
     background-color: #c9a24d;
-    color: #0f0f0f;
+    color: #000000;
     text-decoration: none;
     font-weight: bold;
+    font-size: 18px;
     border-radius: 4px;
 }
 
