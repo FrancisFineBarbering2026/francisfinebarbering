@@ -105,7 +105,7 @@ footer {
     color: #aaa;
 }
 .logo {
-    width: 180px;
-    max-width: 80%;
-    margin-bottom: 20px;
+    width: 120px;
+    height: auto;
+    margin-bottom: 10px;
 }
