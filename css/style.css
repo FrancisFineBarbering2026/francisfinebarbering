@@ -118,3 +118,38 @@ footer {
     height: auto;
     margin-bottom: 10px;
 }
+.service-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+}
+
+.service-card {
+    background-color: #151515;
+    border: 1px solid #c9a24d;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.service-card h3 {
+    color: #c9a24d;
+    margin-bottom: 12px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact-info {
+    margin: 25px 0;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 900px) {
+    .service-grid {
+        grid-template-columns: 1fr;
+    }
+}
