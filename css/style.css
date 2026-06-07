@@ -113,7 +113,7 @@ footer {
     color: #aaa;
 }
 .logo {
-    width: 100px;
+    width: 140px;
     height: auto;
     margin-bottom: 10px;
 }
@@ -176,7 +176,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 60px;
+    gap: 40px;
 }
 
 .logo {
