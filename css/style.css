@@ -163,3 +163,14 @@ footer {
 .contact a:hover {
     color: #e0bd68;
 }
+.about {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.about p {
+    margin-bottom: 20px;
+    line-height: 1.8;
+    font-size: 18px;
+}
