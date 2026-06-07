@@ -1,1 +1,1 @@
-Dossier images acceuil
+Dossier images accueil
