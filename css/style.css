@@ -143,6 +143,8 @@ footer {
 
 .contact-info p {
     margin-bottom: 10px;
+    font-size: 22px;
+    line-height: 1.8;
 }
 
 @media (max-width: 900px) {
@@ -154,6 +156,7 @@ footer {
     color: #c9a24d;
     text-decoration: none;
     font-weight: bold;
+    font-size: 24px;
 }
 
 .contact a:hover {
